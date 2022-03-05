@@ -9,7 +9,7 @@ I am a developer with a history of working in the various services industries. I
 ### 🛠️ Technology Expertise
 - 💻 Visual Studio | Visual Studio Code
 - ⚙️ Git | Azure DevOps (VSO/TFS) | JIRA/Bitbucket Server
-- 🌐 C# | HTML5 | CCS3/SASS | MVC | Javascript (JQuery, AngularJS) | Typescript (Aurelia, Angular9+) 
+- 🌐 C# | HTML5 | CCS3/SASS | MVC | Javascript (JQuery, AngularJS) | Typescript (Aurelia, Angular13+) 
 - 🧪 MSTest | NUnit | XUnit | AutoFixture | Moq | Bogus (AutoBogus) | Jasmine  
 - 🛢 SQL Server | MySQL 
-- 💼 MSBuild | Jenkins CI | Cake Build 
+- 💼 MSBuild | Jenkins CI | Cake Build | Nuke Build
