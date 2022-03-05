@@ -13,3 +13,5 @@ I am a developer with a history of working in the various services industries. I
 - 🧪 MSTest | NUnit | XUnit | AutoFixture | Moq | Bogus (AutoBogus) | Jasmine  
 - 🛢 SQL Server | MySQL 
 - 💼 MSBuild | Jenkins CI | Cake Build | Nuke Build
+
+![Metrics](/github-metrics.svg)
